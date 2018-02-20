@@ -1,7 +1,7 @@
 
 # HackerRank C++
 
-This repository is designed for storing the solution to C++ tutorial of hackerrank.com .
+This repository is designed for storing the solutions of C++ tutorial of [HackerRank](hackerrank.com) .
 
 
 
